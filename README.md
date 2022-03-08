@@ -24,4 +24,4 @@
  ![Snake animation](https://github.com/RianTMJ/RianTMJ/blob/output/github-contribution-grid-snake.svg)
 
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/81371744/157254842-90167203-8d5f-4297-b49d-452e7eceff8f.svg)
+
