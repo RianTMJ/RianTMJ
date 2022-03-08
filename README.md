@@ -19,5 +19,9 @@
   <img align="center" alt="Rian-PyCharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg">
   <img align="center" alt="Rian-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
  </div>
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+ ![Snake animation](https://github.com/RianTMJ/RianTMJ/blob/output/github-contribution-grid-snake.svg)
 
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/81371744/157254842-90167203-8d5f-4297-b49d-452e7eceff8f.svg)
