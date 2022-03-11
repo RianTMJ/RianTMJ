@@ -22,9 +22,8 @@
   
   ##
  
-  <div>
   ![Snake animation](https://github.com/RianTMJ/RianTMJ/blob/output/github-contribution-grid-snake.svg)
 
-  </div>
+ 
 
 
